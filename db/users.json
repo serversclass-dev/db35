@@ -1,1 +1,20 @@
-{}
+{
+  "epstein": {
+    "username": "epstein",
+    "password": "pd9q3utAqucCfgL",
+    "student_type": "علمي",
+    "telegram_user_id": "1510297097",
+    "telegram_username": null,
+    "telegram_first_name": "śĄחαď",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_43.jpg",
+    "session_id": "b0427e9d-c9ee-4589-b615-42eb077b2372",
+    "created_at": "2026-05-11T10:34:03.080320",
+    "verified": true,
+    "last_login": "2026-05-11T10:34:07.403478",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 35
+  }
+}
